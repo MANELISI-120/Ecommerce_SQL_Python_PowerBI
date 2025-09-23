@@ -12,17 +12,7 @@ It demonstrates how to clean, process, and visualize business data for insights.
 - `screenshots/` → Visualizations generated in Python (for quick preview)  
 - `README.md` → Project documentation  
 
----
 
-## ⚙️ Setup Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-python.git
-   cd ecommerce-python
-
-
----
 
 ## ⚙️ Setup Instructions
 
