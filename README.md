@@ -20,3 +20,17 @@ It demonstrates how to clean, process, and visualize business data for insights.
    ```bash
    git clone https://github.com/your-username/ecommerce-python.git
    cd ecommerce-python
+
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/ecommerce-python.git
+   cd ecommerce-python
+
+pip install pandas matplotlib seaborn
+
+jupyter notebook
